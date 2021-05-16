@@ -1,0 +1,16 @@
+C:\Qt\Projects\FSDA_3914_az\ButtonFactory\bin\Debug\net5.0\ButtonFactory.exe
+C:\Qt\Projects\FSDA_3914_az\ButtonFactory\bin\Debug\net5.0\ButtonFactory.deps.json
+C:\Qt\Projects\FSDA_3914_az\ButtonFactory\bin\Debug\net5.0\ButtonFactory.runtimeconfig.json
+C:\Qt\Projects\FSDA_3914_az\ButtonFactory\bin\Debug\net5.0\ButtonFactory.runtimeconfig.dev.json
+C:\Qt\Projects\FSDA_3914_az\ButtonFactory\bin\Debug\net5.0\ButtonFactory.dll
+C:\Qt\Projects\FSDA_3914_az\ButtonFactory\bin\Debug\net5.0\ref\ButtonFactory.dll
+C:\Qt\Projects\FSDA_3914_az\ButtonFactory\bin\Debug\net5.0\ButtonFactory.pdb
+C:\Qt\Projects\FSDA_3914_az\ButtonFactory\obj\Debug\net5.0\ButtonFactory.csprojAssemblyReference.cache
+C:\Qt\Projects\FSDA_3914_az\ButtonFactory\obj\Debug\net5.0\ButtonFactory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Qt\Projects\FSDA_3914_az\ButtonFactory\obj\Debug\net5.0\ButtonFactory.AssemblyInfoInputs.cache
+C:\Qt\Projects\FSDA_3914_az\ButtonFactory\obj\Debug\net5.0\ButtonFactory.AssemblyInfo.cs
+C:\Qt\Projects\FSDA_3914_az\ButtonFactory\obj\Debug\net5.0\ButtonFactory.csproj.CoreCompileInputs.cache
+C:\Qt\Projects\FSDA_3914_az\ButtonFactory\obj\Debug\net5.0\ButtonFactory.dll
+C:\Qt\Projects\FSDA_3914_az\ButtonFactory\obj\Debug\net5.0\ref\ButtonFactory.dll
+C:\Qt\Projects\FSDA_3914_az\ButtonFactory\obj\Debug\net5.0\ButtonFactory.pdb
+C:\Qt\Projects\FSDA_3914_az\ButtonFactory\obj\Debug\net5.0\ButtonFactory.genruntimeconfig.cache

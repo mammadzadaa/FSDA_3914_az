@@ -1,0 +1,16 @@
+C:\Qt\Projects\FSDA_3914_az\Factory\bin\Debug\net5.0\Factory.exe
+C:\Qt\Projects\FSDA_3914_az\Factory\bin\Debug\net5.0\Factory.deps.json
+C:\Qt\Projects\FSDA_3914_az\Factory\bin\Debug\net5.0\Factory.runtimeconfig.json
+C:\Qt\Projects\FSDA_3914_az\Factory\bin\Debug\net5.0\Factory.runtimeconfig.dev.json
+C:\Qt\Projects\FSDA_3914_az\Factory\bin\Debug\net5.0\Factory.dll
+C:\Qt\Projects\FSDA_3914_az\Factory\bin\Debug\net5.0\ref\Factory.dll
+C:\Qt\Projects\FSDA_3914_az\Factory\bin\Debug\net5.0\Factory.pdb
+C:\Qt\Projects\FSDA_3914_az\Factory\obj\Debug\net5.0\Factory.csprojAssemblyReference.cache
+C:\Qt\Projects\FSDA_3914_az\Factory\obj\Debug\net5.0\Factory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Qt\Projects\FSDA_3914_az\Factory\obj\Debug\net5.0\Factory.AssemblyInfoInputs.cache
+C:\Qt\Projects\FSDA_3914_az\Factory\obj\Debug\net5.0\Factory.AssemblyInfo.cs
+C:\Qt\Projects\FSDA_3914_az\Factory\obj\Debug\net5.0\Factory.csproj.CoreCompileInputs.cache
+C:\Qt\Projects\FSDA_3914_az\Factory\obj\Debug\net5.0\Factory.dll
+C:\Qt\Projects\FSDA_3914_az\Factory\obj\Debug\net5.0\ref\Factory.dll
+C:\Qt\Projects\FSDA_3914_az\Factory\obj\Debug\net5.0\Factory.pdb
+C:\Qt\Projects\FSDA_3914_az\Factory\obj\Debug\net5.0\Factory.genruntimeconfig.cache
