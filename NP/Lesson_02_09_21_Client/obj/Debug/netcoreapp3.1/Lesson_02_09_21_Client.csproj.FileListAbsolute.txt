@@ -1,0 +1,13 @@
+C:\Qt\Projects\FSDA_3914_az\NP\Lesson_02_09_21_Client\obj\Debug\netcoreapp3.1\Lesson_02_09_21_Client.csproj.AssemblyReference.cache
+C:\Qt\Projects\FSDA_3914_az\NP\Lesson_02_09_21_Client\obj\Debug\netcoreapp3.1\Lesson_02_09_21_Client.AssemblyInfoInputs.cache
+C:\Qt\Projects\FSDA_3914_az\NP\Lesson_02_09_21_Client\obj\Debug\netcoreapp3.1\Lesson_02_09_21_Client.AssemblyInfo.cs
+C:\Qt\Projects\FSDA_3914_az\NP\Lesson_02_09_21_Client\obj\Debug\netcoreapp3.1\Lesson_02_09_21_Client.csproj.CoreCompileInputs.cache
+C:\Qt\Projects\FSDA_3914_az\NP\Lesson_02_09_21_Client\bin\Debug\netcoreapp3.1\Lesson_02_09_21_Client.exe
+C:\Qt\Projects\FSDA_3914_az\NP\Lesson_02_09_21_Client\bin\Debug\netcoreapp3.1\Lesson_02_09_21_Client.deps.json
+C:\Qt\Projects\FSDA_3914_az\NP\Lesson_02_09_21_Client\bin\Debug\netcoreapp3.1\Lesson_02_09_21_Client.runtimeconfig.json
+C:\Qt\Projects\FSDA_3914_az\NP\Lesson_02_09_21_Client\bin\Debug\netcoreapp3.1\Lesson_02_09_21_Client.runtimeconfig.dev.json
+C:\Qt\Projects\FSDA_3914_az\NP\Lesson_02_09_21_Client\bin\Debug\netcoreapp3.1\Lesson_02_09_21_Client.dll
+C:\Qt\Projects\FSDA_3914_az\NP\Lesson_02_09_21_Client\bin\Debug\netcoreapp3.1\Lesson_02_09_21_Client.pdb
+C:\Qt\Projects\FSDA_3914_az\NP\Lesson_02_09_21_Client\obj\Debug\netcoreapp3.1\Lesson_02_09_21_Client.dll
+C:\Qt\Projects\FSDA_3914_az\NP\Lesson_02_09_21_Client\obj\Debug\netcoreapp3.1\Lesson_02_09_21_Client.pdb
+C:\Qt\Projects\FSDA_3914_az\NP\Lesson_02_09_21_Client\obj\Debug\netcoreapp3.1\Lesson_02_09_21_Client.genruntimeconfig.cache

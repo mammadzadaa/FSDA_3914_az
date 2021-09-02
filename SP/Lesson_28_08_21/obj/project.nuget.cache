@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZCbvu8iG8EYsu7E6WSLNH3yKSjsPHY+1RGHhyLJWD9MiaS5va3h51snfxAu9JtEgcdtapvkjLmpTB9W6ONBWdA==",
+  "success": true,
+  "projectFilePath": "C:\\Qt\\Projects\\FSDA_3914_az\\SP\\Lesson_28_08_21\\Lesson_28_08_21.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Aqil\\.nuget\\packages\\pinvoke.kernel32\\0.7.104\\pinvoke.kernel32.0.7.104.nupkg.sha512",
+    "C:\\Users\\Aqil\\.nuget\\packages\\pinvoke.windows.core\\0.7.104\\pinvoke.windows.core.0.7.104.nupkg.sha512",
+    "C:\\Users\\Aqil\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\Aqil\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.4\\system.threading.tasks.extensions.4.5.4.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,13 @@
+C:\Qt\Projects\FSDA_3914_az\NP\Lesson_02_09_21\bin\Debug\netcoreapp3.1\Lesson_02_09_21.exe
+C:\Qt\Projects\FSDA_3914_az\NP\Lesson_02_09_21\bin\Debug\netcoreapp3.1\Lesson_02_09_21.deps.json
+C:\Qt\Projects\FSDA_3914_az\NP\Lesson_02_09_21\bin\Debug\netcoreapp3.1\Lesson_02_09_21.runtimeconfig.json
+C:\Qt\Projects\FSDA_3914_az\NP\Lesson_02_09_21\bin\Debug\netcoreapp3.1\Lesson_02_09_21.runtimeconfig.dev.json
+C:\Qt\Projects\FSDA_3914_az\NP\Lesson_02_09_21\bin\Debug\netcoreapp3.1\Lesson_02_09_21.dll
+C:\Qt\Projects\FSDA_3914_az\NP\Lesson_02_09_21\bin\Debug\netcoreapp3.1\Lesson_02_09_21.pdb
+C:\Qt\Projects\FSDA_3914_az\NP\Lesson_02_09_21\obj\Debug\netcoreapp3.1\Lesson_02_09_21.csproj.AssemblyReference.cache
+C:\Qt\Projects\FSDA_3914_az\NP\Lesson_02_09_21\obj\Debug\netcoreapp3.1\Lesson_02_09_21.AssemblyInfoInputs.cache
+C:\Qt\Projects\FSDA_3914_az\NP\Lesson_02_09_21\obj\Debug\netcoreapp3.1\Lesson_02_09_21.AssemblyInfo.cs
+C:\Qt\Projects\FSDA_3914_az\NP\Lesson_02_09_21\obj\Debug\netcoreapp3.1\Lesson_02_09_21.csproj.CoreCompileInputs.cache
+C:\Qt\Projects\FSDA_3914_az\NP\Lesson_02_09_21\obj\Debug\netcoreapp3.1\Lesson_02_09_21.dll
+C:\Qt\Projects\FSDA_3914_az\NP\Lesson_02_09_21\obj\Debug\netcoreapp3.1\Lesson_02_09_21.pdb
+C:\Qt\Projects\FSDA_3914_az\NP\Lesson_02_09_21\obj\Debug\netcoreapp3.1\Lesson_02_09_21.genruntimeconfig.cache

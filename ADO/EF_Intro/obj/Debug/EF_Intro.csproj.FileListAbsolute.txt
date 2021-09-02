@@ -1,0 +1,12 @@
+C:\Qt\Projects\FSDA_3914_az\ADO\EF_Intro\bin\Debug\EF_Intro.exe.config
+C:\Qt\Projects\FSDA_3914_az\ADO\EF_Intro\bin\Debug\EF_Intro.exe
+C:\Qt\Projects\FSDA_3914_az\ADO\EF_Intro\bin\Debug\EF_Intro.pdb
+C:\Qt\Projects\FSDA_3914_az\ADO\EF_Intro\bin\Debug\EntityFramework.dll
+C:\Qt\Projects\FSDA_3914_az\ADO\EF_Intro\bin\Debug\EntityFramework.SqlServer.dll
+C:\Qt\Projects\FSDA_3914_az\ADO\EF_Intro\bin\Debug\EntityFramework.xml
+C:\Qt\Projects\FSDA_3914_az\ADO\EF_Intro\bin\Debug\EntityFramework.SqlServer.xml
+C:\Qt\Projects\FSDA_3914_az\ADO\EF_Intro\obj\Debug\EF_Intro.csproj.AssemblyReference.cache
+C:\Qt\Projects\FSDA_3914_az\ADO\EF_Intro\obj\Debug\EF_Intro.csproj.CoreCompileInputs.cache
+C:\Qt\Projects\FSDA_3914_az\ADO\EF_Intro\obj\Debug\EF_Intro.csproj.CopyComplete
+C:\Qt\Projects\FSDA_3914_az\ADO\EF_Intro\obj\Debug\EF_Intro.exe
+C:\Qt\Projects\FSDA_3914_az\ADO\EF_Intro\obj\Debug\EF_Intro.pdb

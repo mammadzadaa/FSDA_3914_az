@@ -1,0 +1,33 @@
+USE OnlineShop
+
+SELECT * FROM Items
+
+SELECT * FROM Descriptions
+
+INSERT INTO Descriptions VALUES(1,'Another descr')
+
+DELETE FROM Items WHERE Id = 1;
+
+INSERT INTO Items VALUES('Milk');
+
+INSERT INTO Descriptions VALUES(3,'Milk descr')
+
+CREATE TABLE Teachers(
+Id INT PRIMARY KEY NOT NULL IDENTITY(1,1),
+[Name] NVARCHAR(255) NOT NULL,
+);
+
+CREATE TABLE Groups(
+Id INT PRIMARY KEY IDENTITY(1,1),
+[Name] NVARCHAR(255) UNIQUE NOT NULL,
+Teacher_Id INT ,
+FOREIGN KEY(Teacher_Id) REFERENCES Teachers(Id)
+);
+
+SELECT * FROM Teachers;
+SELECT * FROM Groups;
+
+INSERT INTO Teachers VALUES('Hikmet')
+INSERT INTO Groups VALUES('STA_1122',2)
+
+

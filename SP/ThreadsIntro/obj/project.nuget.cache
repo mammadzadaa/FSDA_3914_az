@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "xLctGbz5Z+9qT3lhIRP+cLKgdQSZ+2johNmjx2iuSqT1ic6q1zKKI0lfSagoMBF6bbbWIJl+DgVM965XMzdBeg==",
+  "success": true,
+  "projectFilePath": "C:\\Qt\\Projects\\FSDA_3914_az\\SP\\ThreadsIntro\\ThreadsIntro.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Aqil\\.nuget\\packages\\pinvoke.kernel32\\0.7.104\\pinvoke.kernel32.0.7.104.nupkg.sha512",
+    "C:\\Users\\Aqil\\.nuget\\packages\\pinvoke.user32\\0.7.104\\pinvoke.user32.0.7.104.nupkg.sha512",
+    "C:\\Users\\Aqil\\.nuget\\packages\\pinvoke.windows.core\\0.7.104\\pinvoke.windows.core.0.7.104.nupkg.sha512",
+    "C:\\Users\\Aqil\\.nuget\\packages\\pinvoke.windows.shellscalingapi\\0.7.104\\pinvoke.windows.shellscalingapi.0.7.104.nupkg.sha512",
+    "C:\\Users\\Aqil\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\Aqil\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.4\\system.threading.tasks.extensions.4.5.4.nupkg.sha512",
+    "C:\\Users\\Aqil\\.nuget\\packages\\validation\\2.4.15\\validation.2.4.15.nupkg.sha512"
+  ],
+  "logs": []
+}

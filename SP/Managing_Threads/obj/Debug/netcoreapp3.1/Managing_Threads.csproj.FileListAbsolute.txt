@@ -1,0 +1,13 @@
+C:\Qt\Projects\FSDA_3914_az\SP\Managing_Threads\bin\Debug\netcoreapp3.1\Managing_Threads.exe
+C:\Qt\Projects\FSDA_3914_az\SP\Managing_Threads\bin\Debug\netcoreapp3.1\Managing_Threads.deps.json
+C:\Qt\Projects\FSDA_3914_az\SP\Managing_Threads\bin\Debug\netcoreapp3.1\Managing_Threads.runtimeconfig.json
+C:\Qt\Projects\FSDA_3914_az\SP\Managing_Threads\bin\Debug\netcoreapp3.1\Managing_Threads.runtimeconfig.dev.json
+C:\Qt\Projects\FSDA_3914_az\SP\Managing_Threads\bin\Debug\netcoreapp3.1\Managing_Threads.dll
+C:\Qt\Projects\FSDA_3914_az\SP\Managing_Threads\bin\Debug\netcoreapp3.1\Managing_Threads.pdb
+C:\Qt\Projects\FSDA_3914_az\SP\Managing_Threads\obj\Debug\netcoreapp3.1\Managing_Threads.csproj.AssemblyReference.cache
+C:\Qt\Projects\FSDA_3914_az\SP\Managing_Threads\obj\Debug\netcoreapp3.1\Managing_Threads.AssemblyInfoInputs.cache
+C:\Qt\Projects\FSDA_3914_az\SP\Managing_Threads\obj\Debug\netcoreapp3.1\Managing_Threads.AssemblyInfo.cs
+C:\Qt\Projects\FSDA_3914_az\SP\Managing_Threads\obj\Debug\netcoreapp3.1\Managing_Threads.csproj.CoreCompileInputs.cache
+C:\Qt\Projects\FSDA_3914_az\SP\Managing_Threads\obj\Debug\netcoreapp3.1\Managing_Threads.dll
+C:\Qt\Projects\FSDA_3914_az\SP\Managing_Threads\obj\Debug\netcoreapp3.1\Managing_Threads.pdb
+C:\Qt\Projects\FSDA_3914_az\SP\Managing_Threads\obj\Debug\netcoreapp3.1\Managing_Threads.genruntimeconfig.cache
